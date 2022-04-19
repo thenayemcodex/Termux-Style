@@ -14,7 +14,7 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 
 
-</div>
+</div align = "center">
 
 <h2>Join Us for more tool</h2>
 
@@ -62,7 +62,7 @@ A Python Script developed by Md Nayem Sheikh (Noob-Hacker71). This script has to
 
 <h2>CONTACT WITH US</h2>
 
-<h4><i><b><a href ="https://www.facebook.com/Noob.Hacker71/">Your Cyber Sarvent</a></b></i></h4>
+<h4><i><b><a href ="https://www.facebook.com/Noob.Hacker71/">NOOB COMMUNITY ©</a></b></i></h4>
 
 </div>
 
